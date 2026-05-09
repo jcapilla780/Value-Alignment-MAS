@@ -1,0 +1,2 @@
+n_agents_evaluated,total_evaluated_preferences,mean_accuracy,median_accuracy,mean_baseline_accuracy,median_baseline_accuracy,min_accuracy,max_accuracy
+386,3455,0.6655872193436959,0.7083333333333333,0.6404720782959125,0.6666666666666666,0.0,1.0
