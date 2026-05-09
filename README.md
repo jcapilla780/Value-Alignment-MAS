@@ -73,6 +73,13 @@ Value-Alignment-MAS/
 │   └── norms_by_cluster_summary.csv
 │
 ├── graphs/
+│   ├── weights_distribution_boxplot.png
+│   ├── agents_scatter_kmeans.png
+│   ├── cluster_sizes_kmeans.png
+│   ├── clustering_silhouette_comparison.png
+│   ├── norm_global_impact.png
+│   ├── norm_impact_by_cluster.png
+│   └── norm_decision_transitions.png
 │
 ├── memoria/
 │
